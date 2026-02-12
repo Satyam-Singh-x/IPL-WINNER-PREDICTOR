@@ -1,5 +1,7 @@
 🏏 IPL Match Winner Predictor
 
+Live demo: https://ipl-winner-predictor-bysatyam.streamlit.app/
+
 Welcome to the IPL Match Winner Predictor — a machine learning-based web application that predicts the outcome of Indian Premier League (IPL) matches in real time using match context and team performance.
 
 Built with Logistic Regression and powered by Streamlit, this interactive app gives cricket fans and data enthusiasts a glimpse into the power of predictive analytics on the field.
